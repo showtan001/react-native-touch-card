@@ -1,0 +1,42 @@
+{
+  "name": "react-native-touch-card",
+  "version": "1.0.0",
+  "description": "Added onLongPress event on the basis of react-native-flip-card",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "index.js",
+    "package.json",
+    "lib",
+    "test"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/showtan001/react-native-touch-card.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "react-native-card",
+    "ios",
+    "android",
+    "card",
+    "flip"
+  ],
+  "author": "showtan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/showtan001/react-native-touch-card.git"
+  },
+  "homepage": "https://github.com/showtan001/react-native-touch-card.git#readme",
+  "dependencies": {
+    "prop-types": "^15.6.2"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  }
+}
