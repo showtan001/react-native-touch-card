@@ -5,7 +5,7 @@ react-native-touch-card
 
 Demo
 ---
-![](./doc/ver3_android_demo.gif)
+![simulator screen shot - iphone x - 2019-01-03 at 16 00 57](https://user-images.githubusercontent.com/32892347/50627955-e4bf3200-0f70-11e9-8f0b-c5c288bda4b3.png)
 
 
 Installation
