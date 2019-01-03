@@ -21,6 +21,8 @@
     "react-component",
     "react-native",
     "react-native-card",
+    "react-native-flip-card",
+    "react-native-touch-card",
     "ios",
     "android",
     "card",
