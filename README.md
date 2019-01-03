@@ -140,7 +140,7 @@ If you pass `true` to `useNativeDriver` param, the card animation will utilize t
 
 Credits
 ===
-Inspired by [react-flipcard](https://github.com/mzabriskie/react-flipcard)
+Inspired by [react-native-flip-card](https://github.com/moschan/react-native-flip-card)
 
 
 License
