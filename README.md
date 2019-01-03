@@ -1,13 +1,7 @@
 react-native-touch-card
 ===
 
-> The card component which have motion of flip for React Native(iOS/Android)
-
-[![NPM](https://nodei.co/npm/react-native-flip-card.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-native-flip-card/)
-
-[![npm](https://img.shields.io/npm/v/react-native-flip-card.svg)]()[![npm](https://img.shields.io/npm/l/react-native-flip-card.svg)]()
-
-[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard) [![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com)
+> Added onLongPress event on the basis of react-native-flip-card
 
 Demo
 ---
